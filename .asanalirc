@@ -1,1 +1,7 @@
-{"name":"zenith-math","author":"itsAsanali","language":"typescript","license":"none","encoding":"UTF-8"}
+{
+    "name": "zenith-math",
+    "author": "asanaIi",
+    "language": "typescript",
+    "license": "none",
+    "encoding": "UTF-8"
+}
